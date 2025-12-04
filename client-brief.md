@@ -13,7 +13,7 @@ Se ha desarrollado una aplicación web a medida (no plantilla) optimizada para l
 
 ### Valor Diferencial
 A diferencia de una web estándar (Wix/WordPress), esta solución ofrece:
-- **Cero mantenimiento técnico**: No hay bases de datos que mantener ni plugins que actualizar.
+- **Mantenimiento técnico bajo**: No hay bases de datos que mantener ni plugins que actualizar.
 - **Escalabilidad**: Lista para crecer (pagos online, CRM) sin rehacer la base.
 - **Seguridad**: Arquitectura moderna que minimiza vulnerabilidades.
 
