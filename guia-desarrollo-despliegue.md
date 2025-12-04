@@ -180,14 +180,14 @@ Tu página web se publica en Internet y se hace accesible para cualquier persona
 ## 🌐 Fase 4: Vinculación del Dominio
 
 ### ¿Qué sucede aquí?
-Se conecta tu dominio personalizado (ej: `estudiosexclusivo.com`) con la página alojada en Vercel.
+Se conecta tu dominio personalizado (ej: `salatheproject.com`) con la página alojada en Vercel.
 
 ### Proceso paso a paso:
 
 #### 1. **Adición del Dominio en Vercel**
    - En el proyecto de Vercel, ir a "Settings" → "Domains"
-   - Añadir el dominio: `estudiosexclusivo.com`
-   - También añadir: `www.estudiosexclusivo.com`
+   - Añadir el dominio: `salatheproject.com`
+   - También añadir: `www.salatheproject.com`
 
 #### 2. **Obtención de Registros DNS**
    - Vercel proporciona registros DNS que deben configurarse:
